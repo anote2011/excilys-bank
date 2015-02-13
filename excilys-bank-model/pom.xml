@@ -46,11 +46,6 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
-				<configuration>
-					<annotationProcessors>
-						<annotationProcessor>lombok.core.AnnotationProcessor</annotationProcessor>
-					</annotationProcessors>
-				</configuration>
 			</plugin>
 			<plugin>
 				<groupId>org.bsc.maven</groupId>

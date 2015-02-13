@@ -84,7 +84,7 @@
 		<validation-api.version>1.0.0.GA</validation-api.version>
 		<hibernate-validator.version>4.3.0.Final</hibernate-validator.version>
 		<findbugs.version>2.0.0</findbugs.version>
-		<lombok.version>0.11.6</lombok.version>
+		<lombok.version>1.16.2</lombok.version>
 
 		<maven-compiler-plugin.version>2.4</maven-compiler-plugin.version>
 		<maven-license-plugin.version>1.10.b1</maven-license-plugin.version>
