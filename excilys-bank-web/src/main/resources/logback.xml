@@ -28,7 +28,7 @@
 	<!-- </logger> -->
 
 	<logger name="org.springframework">
-		<level value="DEBUG" />
+		<level value="INFO" />
 	</logger>
 
 	<root>
