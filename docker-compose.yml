@@ -1,0 +1,5 @@
+bank:
+    build: .
+    #command: echo 'ready'
+    ports:
+        - "80:8080"
