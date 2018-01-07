@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar jetty-runner-8.1.9.v20130131.jar excilys-bank-web/target/excilys-bank-web-0.0.1-SNAPSHOT.war
+web: java $JAVA_OPTS -jar target/dependency/webapp-runner.jar excilys-bank-web/target/excilys-bank-web-0.0.1-SNAPSHOT.war
